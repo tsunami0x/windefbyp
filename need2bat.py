@@ -34,4 +34,4 @@ if(url is not None and downloading_output is not None and output is not None):
     if __name__ == "__main__":
         main()
 else:
-    print("help: python <salt4attack.py> -h")
+    print("help: python <need2bat.py> -h")
