@@ -50,3 +50,6 @@ source.cpp: source file for windefbyp.py
 source.bat: source file for need2bat.py
 
 dm on telegram: @TSuNAmi_ORg
+
+# screenshot:
+![](https://github.com/tsunami0x/windefbyp/blob/main/screenshot.gif)
